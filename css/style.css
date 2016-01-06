@@ -1,0 +1,13 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-size: 30px;
+  font-family: Open Sans Condensed;
+}
+
+.cupcake {
+  max-width: 500px;
+}
